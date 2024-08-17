@@ -11,10 +11,10 @@
 - Font Awesome
 
 ## Lecture
-- https://academy.nomadcoders.co/p/kakaoclone_total
+- https://nomadcoders.co/kokoa-clone
 
 ## Reference
 - https://github.com/nomadcoders/kakao-clone-v2
 
 ## Website
-- https://rkdals0301.github.io/kakao-talk-v2/
+- https://rkdals0301.github.io/kakao-talk-v2
